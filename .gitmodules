@@ -1,0 +1,6 @@
+[submodule "nng"]
+	path = nng
+	url = https://github.com/nanomsg/nng
+[submodule "csc"]
+	path = csc
+	url = https://github.com/KenthJohan/csc
